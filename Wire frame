@@ -20,3 +20,8 @@
     </mxGraphModel>
   </diagram>
 </mxfile>
+a {}
+a:link {
+    color: #ff0000;
+}
+print("Gaming")

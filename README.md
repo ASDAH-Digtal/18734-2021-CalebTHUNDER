@@ -1,28 +1,28 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Caleb 
 
-Date: 
+Date: 03/11/21
 
-Homeroom: 
+Homeroom: 10 AB 
 
-Teacher: 
+Teacher:MR Malaitai 
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+To inform people about what video games are and the different ways people play them.
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+People who dont know alot about video games.
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+Images, videos 
 
 ## Outcome 1
 ### Plan a web page
